@@ -1,7 +1,7 @@
 # WeekendMovieTrip
 Clustering models based on movie ratings 
 
-# Weekend Movie Trip
+# Instructions
   
 1. Set up a data science project structure in a new git repository in your GitHub account
 2. Download the one of the MovieLens datasets from https://grouplens.org/datasets/movielens/
