@@ -17,5 +17,12 @@ Clustering models based on movie ratings
   2. Merged my data sets together based on MovieId. Since the assignment was to create movie recommendations, the most important attribute in these sets was the movies themselves.
   3. Label encoded the Tags and titles so I could feed them into my model.
   
+  
+# Additional Value
+By editing this data so that it may be clustered, it creates new value in 2 different ways:
+1. This data can be used by companies like Netflix or Youtube, who make money by recommending videos/ music to you based on your previous views/ ratings. If they can figure out the next thing to show you, based on what you have watched in the past, you will spend more time using their service. For Netflix, this means renewing your subscription when it ends. For Youtube, it means you will spend additional time on their platform, watching more videos containing advertisements which generates them ad revenue.
+2. This can help movie makers create movies for their target markets. If they see that all of their viewers like a certain type of film/ tags, they can create movies that contain these attributes to keep their viewers coming back for more.
+
+
  # Clustering Models
     I chose to build my clusters based on ratings and tags of movies. It reasons that a person who rates a movie with certain tags very highly, they will enjoy watching movies with similar tags that have also been ranked highly by other viewers. If someone would like to use my model, they must find the cluster containing a movie they like, then choose another movie located in the same cluster. 
