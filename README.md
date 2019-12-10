@@ -11,6 +11,9 @@ Clustering models based on movie ratings
 6. Document your process and results
 7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
 
+# Goal
+The goal of this project was to use users ratings of movies based on their tags to predict other movies that a particular user might like. For example, if a user likes Star Wars, what movies have recieved similar review and ratings as star wars, and have the same genre? These might be good movies to recommend to a Star Wars viewer. Netflex replicates this process when it recommends shows to its users based on their past views.
+
 # Feature Engineering 
   The steps I took toward feature engineering in this project were:
   1. I removed timestamps from my datasets as they interfered with the merging of my data sets. Ratings and tags on movies are not reliant on the time at which the movie was watched or rated.
